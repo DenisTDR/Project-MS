@@ -56,6 +56,10 @@ int main(){
 
 	if(prt)
 		free(prt);
+	if(Ft)
+		free(prt);
+	if(Fexp)
+		free(prt);
 	free(film);
 	getch();
 	return 0;
