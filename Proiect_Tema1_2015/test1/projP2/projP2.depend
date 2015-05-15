@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1431190074 source:e:\dropbox\upt\ms\proiect\proiect_tema1_2015\test1\projp2\mersenne.c
+	<stdio.h>
+
+1431192559 source:e:\dropbox\upt\ms\proiect\proiect_tema1_2015\test1\projp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"mersenne.h"
+
+1431190081 e:\dropbox\upt\ms\proiect\proiect_tema1_2015\test1\projp2\mersenne.h
+
